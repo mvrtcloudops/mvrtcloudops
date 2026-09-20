@@ -17,9 +17,9 @@ I build and run the infrastructure behind two products at **Akrivia Automations*
 |---|---|
 | Feb 2023 – Present | DevOps Engineer, Akrivia Automations Pvt Ltd, Vizag |
 | May 2019 – Feb 2023 | Systems Engineer, UV Infratech Systems, Hyderabad |
-| Sep 2017 - Feb 2019 | Events, Freelancer | 
+| Sep 2017 - Feb 2019 | Events, Freelancer, Rajahmundry | 
 | Jun 2016 - May 2017 | RM, Birla AMC, Kakinada |
-| Jun 2015 - May 2016 | SAP HCM, Freelancer | 
+| Jun 2015 - May 2016 | SAP HCM, Freelancer, Chennai | 
 
 ## Certifications
 
