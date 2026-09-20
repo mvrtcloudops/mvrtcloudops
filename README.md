@@ -47,7 +47,7 @@ I build and run the infrastructure behind two products at **Akrivia Automations*
 ## Education
 
 - MBA, HR & Marketing — Aditya Global Business School (2015)
-- B.Tech, Computer Science & IT — JNTUK (2011)
+- B.Tech, Computer Science & Information Technology — LCE/JNTUK (2011)
 
 ## Reach me
 
