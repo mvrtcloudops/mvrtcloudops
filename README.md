@@ -27,6 +27,20 @@ I build and run the infrastructure behind two products at **Akrivia Automations*
 - Oracle Cloud Infrastructure (OCI) Certified Foundations / Architect
 - AIOps Foundations & AI-Powered DevOps
 
+## Recent Learning
+
+- AI Infrastructure: LLM-D, vLLM and GPUs
+- n8n: Zero to Hero
+- FinOps Certified Practitioner
+- Loop Engineering
+- System Design
+- Kubernetes and Cloud-Native Associate (KCNA)
+- KAgent: Host Your AI Agents on Kubernetes
+- AIOps Foundations – Intelligent Monitoring With Prometheus & Grafana
+- AI-Powered DevOps
+- Building AI Agents with Claude Agent SDK
+- Gateway API with NGINX Fabric Gateway
+
 ## Stack
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
